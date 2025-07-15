@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on exploring and analyzing the FoodData Central dataset, which contains detailed information about the nutritional composition of various food items. The aim is to identify patterns in nutrients, serving sizes, and calorie content across different food types, and to present the findings in a visually compelling way.
+This project focuses on exploring and analyzing the FoodData Central dataset https://fdc.nal.usda.gov/download-datasets, which contains detailed information about the nutritional composition of various food items. The aim is to identify patterns in nutrients, serving sizes, and calorie content across different food types, and to present the findings in a visually compelling way.
 
 The project uses Python for data cleaning and exploration, leveraging libraries such as Pandas, NumPy, Matplotlib, and Seaborn. Visualizations are created using both Python and Tableau, to effectively communicate the nutritional imbalances in branded foods and propose ways to create healthier options for consumers.
 
